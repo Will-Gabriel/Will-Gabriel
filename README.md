@@ -3,13 +3,8 @@
 - 🔭 I'm currently studying Information Security and learning Python.
 - 📫 How to contact me: There are some links below 👇
 <!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+    ![Snake animation](https://github.com/Will-Gabriel/Will-Gabriel/blob/github-contribution-grid-snake.svg)
+    [![readme](https://github.com-readme-stats.vercel.app/api/pin/?username=Will-Gabriel&repo=Will-Gabriel&theme=react)](https://github.com/Will-Gabriel/Will-Gabriel)
 -->
 
 <div align="center">
@@ -34,9 +29,5 @@
     <a href="https://www.instagram.com/wiliann.gabriel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>      
     <a href = "mailto:wiliang599@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/wilian-gabriel-8b8656286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-    ![Snake animation](https://github.com/Will-Gabriel/Will-Gabriel/blob/github-contribution-grid-snake.svg)
-    [![readme](https://github.com-readme-stats.vercel.app/api/pin/?username=Will-Gabriel&repo=Will-Gabriel&theme=react)](https://github.com/Will-Gabriel/Will-Gabriel)
-
 </div>
 
