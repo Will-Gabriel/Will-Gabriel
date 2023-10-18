@@ -1,8 +1,7 @@
 ### Hi there, I'm Wilian Gabriel.👋
 
-- 🔭 Atualmente Estou estudando Segurança da Informação e aprendendo Python.
-- 📫 Como entrar em contato comigo: Tem uns links aqui abaixo 👇
-- 😄 Pronomes: Ele/Dele
+- 🔭 I'm currently studying Information Security and learning Python.
+- 📫 How to contact me: There are some links below 👇
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
