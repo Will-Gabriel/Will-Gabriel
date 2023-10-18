@@ -9,8 +9,8 @@
 
 <div align="center">
     <a href="https://github.com/Will-Gabriel">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Will-Gabriel&show_icons=true&theme=radical&include_all_commits">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Gabriel&layout=compact&langs_count=7&theme=radical">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Will-Gabriel&show_icons=true&theme=dracula&include_all_commits">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Gabriel&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 <!-- ICONES - https://devicon.dev -->
