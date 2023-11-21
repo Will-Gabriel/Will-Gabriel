@@ -58,5 +58,6 @@ ICONES - https://github.com/alexandresanlim/Badges4-README.md-Profile
 <div id="links">
     <a href="https://www.instagram.com/wiliann.gabriel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>      
     <a href = "mailto:wiliang599@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoCo"></a>
-    <a href="https://www.linkedin.com/in/wilian-gabriel-8b8656286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+    <a href="https://www.linkedin.com/in/wilian-gabriel-8b8656286" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <br>
 </div>&nbsp;&nbsp;
