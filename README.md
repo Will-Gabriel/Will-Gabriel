@@ -10,7 +10,6 @@
 <div  align="center" style="margin-bottom:100px">
     <a href="https://github.com/Will-Gabriel">
     <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=Will-Gabriel&show_icons=true&theme=radical&include_all_commits">
-    <img width=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Will-Gabriel&layout=compact&langs_count=7&theme=radical">
 </div>
  
  &nbsp;
