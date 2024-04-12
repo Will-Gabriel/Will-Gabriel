@@ -7,10 +7,12 @@
     I'm passionate about hacking, discovering new things and using them to create high-quality solutions. <br>
     Today I'm a student focused on cybersecurity and I'm majoring in Information Security...
 </p>
+<!--
 <div  align="center" style="margin-bottom:100px">
     <a href="https://github.com/Will-Gabriel">
     <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=Will-Gabriel&show_icons=true&theme=radical&include_all_commits">
 </div>
+-->
 <hr>
 <div>
   <h3>🙅‍♂️ I like...</h3>
