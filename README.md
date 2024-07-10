@@ -24,7 +24,7 @@
   </ul>
 </div>
 <hr>
-<h3>📚 Certifications</h3>
+<h3>📚 Certificates / Certifications</h3>
 <div>
   <ul>
     <li>
