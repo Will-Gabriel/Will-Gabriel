@@ -24,13 +24,16 @@
   </ul>
 </div>
 <hr>
-<h3>📚 Studying in this moment</h3>
+<h3>📚 Certifications</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=aws&perline=14"/>
+  <a href="https://www.credly.com/badges/959fde0d-dd2c-401e-b2ee-fed9132b6a42/public_url" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws&perline=14"/>
+  </a>
 </div>
 <h3>🚀 Technologies</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,django,git,github,linux&perline=14"/>
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,django,git,github,linux&perline=14"/> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,git,github,linux&perline=14"/>
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3>🎲 Databases</h3>
