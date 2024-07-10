@@ -26,14 +26,19 @@
 <hr>
 <h3>📚 Certifications</h3>
 <div>
-  <a href="https://www.credly.com/badges/959fde0d-dd2c-401e-b2ee-fed9132b6a42/public_url" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws&perline=14"/>
-  </a>
+  <ul>
+    <li>
+      <a href="https://www.credly.com/badges/959fde0d-dd2c-401e-b2ee-fed9132b6a42/public_url" target="_blank">AWS Certified Cloud Practitioner</a>
+    </li>
+    <li>
+       <a href="https://www.credly.com/badges/74b2b2c9-e620-49b8-8256-d11898b9d0e3/public_url" target="_blank">AWS re/Start Graduate</a>
+    </li>
+  </ul>
 </div>
 <h3>🚀 Technologies</h3>
 <div>
   <!-- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,django,git,github,linux&perline=14"/> -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,git,github,linux&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=aws,html,css,js,react,py,git,github,linux&perline=14"/>
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <h3>🎲 Databases</h3>
@@ -42,7 +47,7 @@
 </div>
 <h3>🛠 Main Tools</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,kali&perline=14"/>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,debian&perline=14"/>
 </div>
 <hr>
 <h3>Contacts</h3>
