@@ -33,6 +33,9 @@
     <li>
        <a href="https://www.credly.com/badges/74b2b2c9-e620-49b8-8256-d11898b9d0e3/public_url" target="_blank">AWS re/Start Graduate</a>
     </li>
+    <li>
+      <a href="https://github.com/Will-Gabriel/my-certificates" target="_blank">Other certificates</a>
+    </li>
   </ul>
 </div>
 <h3>🚀 Technologies</h3>
