@@ -3,16 +3,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=Hi,%20+My+name+is+Wilian;I+study+Cybersecurity+💻;You+are+very+welcome!+:P" alt="Typing SVG">
   </a>
 </div>
+<!--
 <p align="center">
     I'm passionate about hacking, discovering new things and using them to create high-quality solutions. <br>
     Today I'm a student focused on cybersecurity and I'm majoring in Information Security...
+</p> -->
+<p>
+  Olá amigo(a), meu github está passando por uma reestruturação e logo você poderá ver meus projetos pessoais e estudos!
+</p>
+<p>
+  Hello friend, my github is undergoing restructuring and soon you will be able to see my personal projects and studies!
 </p>
 <!--
 <div  align="center" style="margin-bottom:100px">
     <a href="https://github.com/Will-Gabriel">
     <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=Will-Gabriel&show_icons=true&theme=radical&include_all_commits">
 </div>
--->
 <hr>
 <div>
   <h3>🙅‍♂️ I like...</h3>
@@ -40,7 +46,7 @@
 </div>
 <h3>🚀 Technologies</h3>
 <div>
-  <!-- <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,django,git,github,linux&perline=14"/> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,django,git,github,linux&perline=14"/>
   <img src="https://skillicons.dev/icons?i=aws,html,css,js,py,git,github,linux&perline=14"/>
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -52,7 +58,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,debian&perline=14"/>
 </div>
-<hr>
+<hr> -->
 <h3>Contacts</h3>
 <div id="links">
     <a href="https://www.instagram.com/wiliann.gabriel/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&perline=14"/></a>
