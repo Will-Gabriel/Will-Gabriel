@@ -1,3 +1,7 @@
+<!--
+<p>Olá amigo(a), meu github está passando por uma reestruturação e logo você poderá ver meus projetos pessoais e estudos!</p>
+<p>Hello friend, my github is undergoing restructuring and soon you will be able to see my personal projects and studies!</p>
+-->
 <div align="center" style="text-align: center;">
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=18&pause=1000&width=600&lines=Olá%2C+Meu+nome+é+Wilian!;Eu+sou+estudante+de+Cybersecurity+e+Web+Development;Seja+muito+Bem-vindo(a)!+%3AP" alt="Typing SVG" />
@@ -7,10 +11,6 @@
     Sou apaixonado por hacking, estou sempre buscando descobrir coisas novas e como posso usá-las para criar soluções de alta qualidade. <br>
     Hoje sou um estudante focado em cibersegurança e estou me graduando em Defesa Cibernética e Desenvolvimento Web FullStack.
 </p>
-<!--
-<p>Olá amigo(a), meu github está passando por uma reestruturação e logo você poderá ver meus projetos pessoais e estudos!</p>
-<p>Hello friend, my github is undergoing restructuring and soon you will be able to see my personal projects and studies!</p>
--->
 <hr>
 <div>
     <h3>🙅‍♂️ Eu curto...</h3>
