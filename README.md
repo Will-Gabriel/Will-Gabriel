@@ -9,7 +9,7 @@
 </div>
 <p align="center">
     Sou apaixonado por hacking, estou sempre buscando descobrir coisas novas e como posso usá-las para criar soluções de alta qualidade. <br>
-    Hoje sou um estudante focado em cibersegurança e estou me graduando em Defesa Cibernética e Desenvolvimento Web FullStack.
+    Hoje sou um estudante focado em cybersecurity, estou me graduando em Defesa Cibernética e Desenvolvimento Web FullStack.
 </p>
 <hr>
 <div>
