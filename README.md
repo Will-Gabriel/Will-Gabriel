@@ -44,7 +44,7 @@
     -->
     <div>
         <h3>🛠 Minhas principais Ferramentas</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,pycharm,debian&perline=14"/>
+        <img src="https://skillicons.dev/icons?i=vscode,debian&perline=14"/>
     </div>
 </div>
 <hr>
