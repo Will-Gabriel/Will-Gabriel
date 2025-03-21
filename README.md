@@ -33,7 +33,7 @@
 <div>
     <div>
         <h3>🚀 Minhas principais Tecnologias</h3>
-        <img src="https://skillicons.dev/icons?i=aws,html,css,js,mysql,py,git,github,linux&perline=14"/>
+        <img src="https://skillicons.dev/icons?i=aws,html,css,js,py,git,github,linux&perline=14"/>
     </div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <!--
