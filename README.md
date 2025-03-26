@@ -8,7 +8,7 @@
     </a>
 </div>
 <p align="center">
-    Estudante focado em cybersecurity, estou no último semestre em Defesa Cibernética e Desenvolvimento Web FullStack.
+    Estudante focado em cybersecurity, estou no último semestre em Defesa Cibernética na Estácio e cursando Desenvolvimento Web FullStack pela Kenzie Academy.
 </p>
 <hr>
 <div>
